@@ -1,0 +1,33 @@
+.titulo{
+    background-color: #db47f8;
+}
+
+.box1 {
+    display: flex;
+    background-color: #8a2be2;
+    justify-content: space-around;
+}
+
+.box1 > div {
+    background-color: rgba(10,30,20, 0.5);
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.flex2 {
+    display: flex;
+    background-color: #4400ff;
+    justify-content: flex-start;
+}
+
+.flex2 > div{
+    background-color: rgba(10,0,90, 0.5);
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+h1 {
+    color: #f0f8ff;
+}
